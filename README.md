@@ -21,10 +21,6 @@ Based on the analysis, I recommended using hash tables due to their average-case
 
 ## Project Two: Working Code for Sorting and Printing Courses
 
-### Sorting and Printing Courses
-
-(Include the working code for sorting and printing courses here.)
-
 ## Reflection
 
 ### What was the problem you were solving in the projects for this course?
